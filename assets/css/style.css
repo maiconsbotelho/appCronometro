@@ -1,0 +1,80 @@
+/* Importando a fonte Open Sans do Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+
+/* Definindo variáveis de cor no root para reutilização */
+:root {
+  --primary-color: rgb(17, 86, 102);
+  --primary-color-darker: rgb(9, 48, 56);
+}
+
+/* Reset de estilos e definições globais */
+* {
+  box-sizing: border-box;
+  outline: 0;
+}
+
+/* Estilos globais do corpo da página */
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--primary-color);
+  font-family: 'Open sans', sans-serif;
+  font-size: 1.3em;
+  line-height: 1.5em;
+}
+
+/* Estilos do container principal */
+.container {
+  width: 400px;
+  height: 400px;
+  margin: 50px auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 50%; /* Ajustado para 50% para garantir um círculo perfeito */
+  text-align: center;
+}
+
+/* Estilos dos botões de controle */
+button.iniciar {
+  width: 100px;
+  background: rgb(18, 148, 29);
+  color: #fff;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+button.pausar {
+  width: 100px;
+  background: rgb(17, 86, 102);
+  color: #fff;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+button.zerar {
+  width: 100px;
+  background: #f00;
+  color: #fff;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+/* Estilos do cronômetro */
+.cronometro {
+  font-size: 3em;
+}
+
+/* Estilos quando o cronômetro está pausado (cor vermelha e piscar) */
+.cronometro.pausado {
+  color: red;
+  animation: piscar 0.5s infinite alternate;
+}
+
+@keyframes piscar {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0.2;
+  }
+}
