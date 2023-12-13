@@ -39,4 +39,6 @@ Maicon Botelho - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maicon_Botel
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto está licenciado sob a [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE.txt)
+
+
