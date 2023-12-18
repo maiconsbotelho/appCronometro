@@ -4,7 +4,7 @@ Este é um cronômetro web desenvolvido como prática no curso de JavaScript e T
 
 ## Como Usar
 
-1. Abra o arquivo `index.html` em um navegador web ou acesse [a aplicação online](https://appcronometro.maiconbotelho.com.br/).
+1. Abra o arquivo `index.html` em um navegador web ou acesse [a aplicação online](https://maiconsbotelho.github.io/appCronometro/).
 2. O cronômetro será exibido no centro da página.
 3. Use os botões "Iniciar", "Pausar" e "Zerar" para controlar o cronômetro.
 
@@ -39,4 +39,6 @@ Maicon Botelho - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maicon_Botel
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto está licenciado sob a [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE.txt)
+
+
