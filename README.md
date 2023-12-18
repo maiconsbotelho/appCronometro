@@ -26,6 +26,8 @@ Este é um cronômetro web desenvolvido como prática no curso de JavaScript e T
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployed-brightgreen)](https://appcronometro.maiconbotelho.com.br/)
 
+## ![Screenshots1](https://github.com/maiconsbotelho/appCronometro/blob/main/assets/img/screenshots.jpg)
+
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, relatar problemas ou enviar pull requests.
@@ -37,8 +39,7 @@ Maicon Botelho - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maicon_Botel
 
 
 
+
 ## Licença
 
 Este projeto está licenciado sob a [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE.txt)
-
-
